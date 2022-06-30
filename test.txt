@@ -5,3 +5,5 @@
 sts start
 이것도 거절해 보시지!
 받아주세요...ㅠㅠ
+
+git ignore 에 추가
